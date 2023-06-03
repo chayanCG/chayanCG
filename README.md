@@ -7,9 +7,11 @@
 
 - 🤝 I’m looking for help with **Flutter and React Native**
 
-- 💬 Ask me about **Manager | Android | Jetpack Compose | IOS | Swift UI | Flutter | Internet of things(IOT) at Capgemini**
+- 💬 Ask me about **Android,Swift,Flutter,Python,Springboot Microservices**
 
 - 📫 How to reach me **chayanchowdhury@gmail.com**
+
+- 📄 Know about my experiences [Manager | Android | Jetpack Compose | IOS | Swift UI | Flutter | Internet of things(IOT) at Capgemini](Manager | Android | Jetpack Compose | IOS | Swift UI | Flutter | Internet of things(IOT) at Capgemini)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
