@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **chayanchowdhury@gmail.com**
 
-- 📄 Know about my experiences [Manager | Android | Jetpack Compose | IOS | Swift UI | Flutter | Internet of things(IOT) at Capgemini](Manager | Android | Jetpack Compose | IOS | Swift UI | Flutter | Internet of things(IOT) at Capgemini)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
