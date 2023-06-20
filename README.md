@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and React Native**
 
-- 🤝 I’m looking for help with **Flutter and React Native**
+- 🤝 I’m looking for help with **Android,Ios and Rest API **
 
 - 💬 Ask me about **Android,Swift,Flutter,Python,Springboot Microservices**
 
